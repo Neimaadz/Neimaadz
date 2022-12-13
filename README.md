@@ -1,6 +1,10 @@
 <h3 align= "center"> Loading... </h3>
 
 <p align="center">
+  <img src="https://github.com/Neimaadz/Neimaadz/blob/main/loading.gif" alt="loadgin" style="width:100px;"/>
+</p>
+
+<p align="center">
   <img src="https://github.com/Neimaadz/Neimaadz/blob/main/coding.gif" alt="drawing" style="width:600px;"/>
 </p>
 
