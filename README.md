@@ -1,4 +1,8 @@
-### Hi there 👋
+<h3 align= "center"> Loading... </h3>
+
+<p align="center">
+  <img src="https://github.com/Neimaadz/Neimaadz/blob/main/coding.gif" alt="drawing" style="width:600px;"/>
+</p>
 
 <!--
 **Neimaadz/Neimaadz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
